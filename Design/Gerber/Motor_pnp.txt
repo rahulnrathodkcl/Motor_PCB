@@ -1,0 +1,125 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Motor
+*Date=10:38:17
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;63.822;-38.8584;90;Bottom;TXT8
+2;370;THT;102.095;-48.136;0;Bottom;R10
+3;10k;THT;131.457;-15.5015;0;Bottom;R6
+4;220;THT;33.5541;-44.1361;0;Bottom;D5
+5;;;2.60735;-3.50137;0;Bottom;Hole3
+6;;;148.647;-88.5014;0;Bottom;Hole14
+7;100 nF;100 mil [THT, multilayer];86.1347;-28.5913;180;Bottom;C8
+8;56k;THT;167.479;-69.2596;90;Bottom;R24
+9;;THT;10.3001;-27.9849;-90;Bottom;Q4
+10;;THT;57.8374;-73.4913;0;Bottom;Q7
+11;33µF;100 mil [THT, electrolytic];67.4047;-79.3662;-90;Bottom;C11
+12;;jst-3-pth;129.547;-66.5014;-90;Bottom;TRF
+13;;diode-zener;105.348;-27.1361;0;Bottom;D3
+14;;THT;37.8002;-32.3904;-90;Bottom;Q3
+15;;5 mm [THT];19.5558;-24.1213;90;Bottom;+   -
+16;;;148.647;-39.5014;0;Bottom;Hole12
+17;;;86.4384;-43.1857;90;Bottom;TXT8
+18;4.7k;THT;94.4046;-57.2114;-90;Bottom;D2
+19;22pF;100 mil [THT, multilayer];77.6502;-46.1122;180;Bottom;C6
+20;;;39.9575;-11.1123;0;Bottom;TXT6
+21;100 nF;100 mil [THT, multilayer];70.1744;-64.6358;180;Bottom;C9
+22;;THT;20.3814;-79.152;-90;Bottom;C START STOP
+23;22k;THT;173.019;-52.8793;-90;Bottom;R28
+24;;DIP (Dual Inline) [THT];134.277;-47.0029;0;Bottom;G1
+25;;;83.7316;-43.5486;90;Bottom;TXT8
+26;12V;THT;33.8279;-57.4354;-90;Bottom;RL2
+27;1k;THT;43.9046;-22.1713;-90;Bottom;R19
+28;;;101.207;-81.2567;0;Bottom;TXT8
+29;1k;THT;112.457;-13.5014;0;Bottom;R8
+30;56k;THT;175.479;-69.2596;90;Bottom;R25
+31;10k;THT;52.6473;-33.3515;-90;Bottom;R17
+32;;;139.231;-22.3998;0;Bottom;TXT10
+33;Variable V;TO220 [THT];113.123;-55.9615;-90;Bottom;U2
+34;10k;THT;126.325;-10.636;0;Bottom;R7
+35;;;62.3003;-30.0457;0;Bottom;TXT11
+36;;;179.647;-39.5014;0;Bottom;Hole15
+37;;;61.3901;-38.9451;90;Bottom;TXT8
+38;;;142.147;-89.0014;0;Bottom;Hole4
+39;;diode-1n4001;153.845;-56.6758;-90;Bottom;D6
+40;;;124.168;-31.6685;0;Bottom;TXT11
+41;1k;THT;66.4045;-31.1714;-90;Bottom;R15
+42;;jst-4-pth;44.7473;-76.5014;-90;Bottom;JP2
+43;4.7k;THT;103.785;-81.1216;180;Bottom;D1
+44;56k;THT;175.479;-57.7592;90;Bottom;R29
+45;1k;THT;111.484;-73.6358;180;Bottom;R1
+46;;jst-2-pth;119.647;-19.1016;0;Bottom;JP1
+47;;;2.60735;-89.0014;0;Bottom;Hole1
+48;100 nF;100 mil [THT, multilayer];70.1502;-49.1122;180;Bottom;C7
+49;;;142.147;-3.50137;0;Bottom;Hole6
+50;100 nF;100 mil [THT, multilayer];102.905;-40.8615;-90;Bottom;C3
+51;;5 mm [THT];37.9044;-19.7424;0;Bottom;+   -
+52;1k;THT;29.2144;-33.636;180;Bottom;R20
+53;;;179.647;-88.5014;0;Bottom;Hole11
+54;;TO92 [THT];62.9936;-22.8608;-90;Bottom;Q2
+55;;jst-2-pth;59.6472;-67.6014;0;Bottom;JP1
+56;;TO92 [THT];14.3396;-38.869;0;Bottom;Q5
+57;;TO92 [THT];27.2538;-38.5472;0;Bottom;Q6
+58;;;50.6374;-53.6905;0;Bottom;TXT8
+59;;;131.457;-32.0014;0;Bottom;J2
+60;;TO92 [THT];104.494;-18.9856;-90;Bottom;Q1
+61;Variable V;TO220 [THT];101.381;-55.0962;-90;Bottom;U1
+62;220;THT;15.0543;-44.1361;0;Bottom;D4
+63;820;THT;105.905;-40.9461;90;Bottom;R9
+64;;;79.9634;-22.6168;180;Bottom;SIM800L_20MM1
+65;;;165.444;-40.3851;0;Bottom;TXT10
+66;1k;THT;77.2145;-80.136;180;Bottom;R12
+67;1k;THT;82.7683;-70.5732;180;Bottom;R14
+68;1k;THT;82.4711;-74.073;180;Bottom;R13
+69;;THT;62.9174;-43.5014;-90;Bottom;J48
+70;1k;THT;15.0949;-34.6215;180;Bottom;R21
+71;;THT;131.164;-25.0883;0;Bottom;-
+72;;jst-4-pth;165.519;-45.9693;0;Bottom;JP2
+73;;;13.0355;-43.9329;0;Bottom;TXT9
+74;;THT;57.8374;-79.3168;0;Bottom;Q8
+75;;dip;70.1346;-56.326;-90;Bottom;U3
+76;56k;THT;161.345;-57.7858;90;Bottom;R27
+77;1k;THT;92.2812;-71.763;90;Bottom;R11
+78;22pF;100 mil [THT, multilayer];72.6498;-46.1122;180;Bottom;C5
+79;;sot23-3;100.955;-64.136;-90;Bottom;Q10
+80;;THT;88.4379;-81.3088;180;Bottom;Q9
+81;33µF;100 mil [THT, electrolytic];67.4047;-73.366;-90;Bottom;C10
+82;;;43.5481;-8.20933;0;Bottom;TXT7
+83;22k;THT;157.647;-52.8113;-90;Bottom;R26
+84;;THT;86.3647;-47.1361;-90;Bottom;J58
+85;;THT;131.738;-79.152;-90;Bottom;R Y
+86;;;59.6475;-33.2515;0;Bottom;J1
+87;;v18za2p;171.479;-65.3796;-90;Bottom;M2
+88;;THT;76.45;-40.6026;0;Bottom;XTAL
+89;;[THT];54.8974;-45.2515;90;Bottom;RESET1
+90;10;THT;110.904;-37.516;-90;Bottom;R4
+91;1.8k;THT;115.457;-26.0013;0;Bottom;R5
+92;220;THT;111.594;-65.1359;0;Bottom;C1
+93;;cpol-radial-1000uf-25v;123.147;-49.4613;-90;Bottom;C2
+94;12V;THT;15.3281;-57.4354;-90;Bottom;RL1
+95;390;THT;113.904;-41.3542;90;Bottom;R3
+96;56k;THT;161.479;-69.2596;90;Bottom;R23
+97;100;THT;111.095;-70.6361;0;Bottom;R2
+98;;jst-2-pth;129.547;-58.5015;-90;Bottom;TRF
+99;;v18za2p;157.345;-65.4062;-90;Bottom;M1
+100;56k;THT;153.345;-69.2862;90;Bottom;R22
+101;;THT;164.312;-80.5853;-90;Bottom;B Y R
+102;;;39.9659;-11.3752;0;Bottom;TXT6
+103;;;36.2456;-8.47214;0;Bottom;TXT7
+104;;5 mm [THT];100.556;-73.636;90;Bottom;+  -
+105;;;35.815;-43.9464;0;Bottom;TXT9
+106;;os;128.574;-38.0079;90;Bottom;ON/OFF
+107;;cpol-radial-1000uf-25v;94.7853;-39.5912;-90;Bottom;C4
+108;;diode-1n4001;167.979;-56.6493;-90;Bottom;D7
+109;1k;THT;76.9046;-17.1715;-90;Bottom;R16
+110;;;132.163;-18.1276;0;Bottom;TXT10
