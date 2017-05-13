@@ -1,0 +1,264 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Motor Test Sketch
+*Date=17:15:38
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;22k;THT;171.215;-44.0664;180;Bottom;R42
+2;;;111.525;-33.0664;0;Bottom;Hole18
+3;;os;87.1797;-76.461;180;Bottom;ON/OFF SW
+4;100 nF;100 mil [THT, multilayer];26.8009;-57.2668;0;Bottom;C11
+5;;;16.8021;-17.5122;0;Bottom;Copper Fill52
+6;;THT;73.6049;-32.0592;90;Bottom;J92
+7;1k;THT;4.07548;-17.6868;-90;Bottom;R23
+8;;;50.2158;-74.4971;0;Bottom;Copper Fill49
+9;;dip;26.5996;-50.7782;-90;Bottom;U2
+10;10k;THT;56.8781;-63.6512;90;Bottom;R6
+11;;;55.0926;-41.0199;0;Bottom;Copper Fill61
+12;;;71.1454;-8.6603;0;Bottom;Copper Fill108
+13;;;111.525;-81.5451;0;Bottom;Hole4
+14;;sma-diode;88.1752;-45.5664;180;Bottom;D2
+15;1k;THT;34.5755;-70.9565;-90;Bottom;R2
+16;;;147.798;-43.3274;0;Bottom;blkr2
+17;;THT;28.9743;-67.2781;-90;Bottom;Q6
+18;2.2k;THT;57.7265;-40.9515;0;Bottom;R13
+19;;;146.209;-38.1225;0;Bottom;TXT12
+20;;;3.52523;-82.0664;0;Bottom;Hole1
+21;;;132.386;-53.8728;0;Bottom;Pad4
+22;;;38.735;-28.6247;0;Bottom;Copper Fill80
+23;;[THT];56.7753;-11.3165;90;Bottom;BRST
+24;;;11.2649;-38.7466;0;Bottom;Copper Fill100
+25;;;87.7157;-30.7568;180;Bottom;M4
+26;;;56.3245;-18.7314;0;Bottom;Copper Fill56
+27;;;21.717;-77.2911;0;Bottom;Copper Fill39
+28;1k;THT;3.99138;-58.4312;-90;Bottom;R20
+29;;;163.536;-20.5334;0;Bottom;JUMP1
+30;500;THT;51.8749;-66.8691;90;Bottom;R5
+31;;v18za2p;177.541;-66.8764;-90;Bottom;U1
+32;;;85.1662;-42.0867;0;Bottom;Copper Fill117
+33;;;76.2254;-27.1007;0;Bottom;Copper Fill111
+34;;;67.691;-68.0963;0;Bottom;Copper Fill93
+35;;3 mm [THT];7.49136;-58.7723;0;Bottom;LED1
+36;5.6k;THT;57.685;-53.5592;180;Bottom;R8
+37;;;91.2158;-10.1698;90;Bottom;TXT10
+38;;sma-diode;63.4254;-11.7667;0;Bottom;D3 
+39;;;30.48;-21.3095;0;Bottom;Copper Fill104
+40;;;65.0494;-80.0851;0;Bottom;Copper Fill67
+41;;;32.4993;-78.5484;0;Bottom;Copper Fill40
+42;;THT;46.5942;-78.9826;90;Bottom;J1
+43;;;111.525;-41.0663;0;Bottom;Hole12
+44;100 nF;100 mil [THT, multilayer];39.375;-77.7843;-90;Bottom;C4
+45;;diode-1n4148;67.7265;-45.9516;180;Bottom;D8
+46;1k;THT;36.8748;-65.2491;-90;Bottom;R3
+47;2.2k;THT;57.7265;-45.9375;180;Bottom;R11
+48;;;85.1662;-20.2935;0;Bottom;Copper Fill99
+49;;;121.525;-61.0663;0;Bottom;Pad6
+50;33µF;100 mil [THT, electrolytic];41.3748;-61.289;-90;Bottom;C9
+51;;;76.2254;-8.6603;0;Bottom;Copper Fill124
+52;10k;THT;70.429;-16.2443;180;Bottom;R28
+53;;sot23-3;73.2889;-19.7944;0;Bottom;Q8
+54;;;111.866;-61.3876;0;Bottom;Pad12
+55;150k;THT;159.665;-60.9198;90;Bottom;R36
+56;;;10.033;-37.5147;0;Bottom;Copper Fill101
+57;;;85.1789;-74.6368;0;Bottom;Copper Fill85
+58;;THT;16.7899;-41.2851;-90;Bottom;J48
+59;;;62.611;-80.0851;0;Bottom;Copper Fill66
+60;;;84.1248;-73.5827;0;Bottom;Copper Fill86
+61;10k;THT;49.5649;-38.059;0;Bottom;R14
+62;;;83.9089;-21.5762;0;Bottom;Copper Fill98
+63;;TO92 [THT];14.0887;-16.1554;0;Bottom;Q1
+64;;;49.0601;-80.0978;0;Bottom;Copper Fill102
+65;10k;THT;75.8296;-56.5592;180;Bottom;R17
+66;;;72.6948;-48.4875;0;Bottom;Copper Fill60
+67;;diode-1n4148;137.031;-7.04475;90;Bottom;D6
+68;22k;THT;170.323;-63.0664;180;Bottom;R40
+69;;;56.1594;-76.1227;0;Bottom;Copper Fill113
+70;;;35.5473;-42.5058;0;Bottom;Copper Fill51
+71;;;37.5285;-27.3928;0;Bottom;Copper Fill79
+72;12V;THT;150.561;-27.2588;0;Bottom;START
+73;;;33.7058;-77.2911;0;Bottom;Copper Fill41
+74;;;99.0742;-11.9956;0;Bottom;blkr3
+75;150k;THT;146.164;-60.9198;90;Bottom;R35
+76;;THT;153.504;-75.7824;90;Bottom;PW1
+77;;;52.6034;-53.6183;0;Bottom;Copper Fill71
+78;;;136.525;-41.5663;0;Bottom;Pad14
+79;;;10.033;-44.0171;0;Bottom;Copper Fill82
+80;;;3.6638;-3.9834;0;Bottom;Hole3
+81;;;104.811;-82.7695;0;Bottom;blkr10
+82;;;80.0862;-20.2935;0;Bottom;Copper Fill119
+83;;TO92 [THT];53.6187;-19.7981;0;Bottom;Q2
+84;;;81.3689;-21.5762;0;Bottom;Copper Fill118
+85;;;71.9709;-4.6852;0;Bottom;Copper Fill68
+86;;THT;33.1015;-35.7695;0;Bottom;XTAL
+87;;TO92 [THT];17.8259;-77.1849;0;Bottom;Q4
+88;;;3.9497;-55.917;0;Bottom;Copper Fill35
+89;150k;THT;111.525;-66.4064;90;Bottom;R32
+90;10k;THT;67.685;-80.059;180;Bottom;R18
+91;;;44.7294;-28.6247;0;Bottom;Copper Fill77
+92;;THT;21.3054;-33.2666;-90;Bottom;J93
+93;;;94.0546;-3.62705;0;Bottom;blkr8
+94;;DIP (Dual Inline) [THT];65.1848;-65.5192;0;Bottom;O1
+95;;cap-pth-large;140.025;-50.7655;-90;Bottom;C14
+96;1k;THT;14.0755;-25.6867;-90;Bottom;R22
+97;;;2.49754;-82.8321;0;Bottom;blkr9
+98;;THT;136.318;-76.5824;-90;Bottom;R Y B
+99;;;36.1271;-16.3397;0;Bottom;TXT8
+100;;;71.4629;-49.7194;0;Bottom;Copper Fill58
+101;;THT;42.8455;-43.2666;-90;Bottom;J58
+102;;;116.754;-70.8366;0;Bottom;Pad5
+103;;THT;168.938;-76.5824;-90;Bottom;R B
+104;;THT;8.58392;-75.2824;90;Bottom;J2
+105;;;132.386;-63.3726;0;Bottom;Pad11
+106;;;95.5548;-39.2927;0;Bottom;Copper Fill63
+107;3.3k;THT;57.7265;-43.395;180;Bottom;R12
+108;;;74.9681;-25.8434;0;Bottom;Copper Fill110
+109;;THT;32.7391;-17.4743;0;Bottom;J79
+110;;;40.4876;-79.1199;0;Bottom;Copper Fill48
+111;33µF;100 mil [THT, electrolytic];160.525;-42.7964;-90;Bottom;C16
+112;;;72.4281;-9.9176;0;Bottom;Copper Fill107
+113;;TO92 [THT];29.8116;-77.1803;0;Bottom;Q3
+114;68k;THT;132.525;-58.7264;-90;Bottom;R34
+115;;THT;95.2953;-79.5664;90;Bottom;J89
+116;;os;101.562;-33.2085;180;Bottom;Battery SW
+117;10k;THT;68.2068;-5.85208;180;Bottom;R29
+118;;THT;86.3987;-53.5858;0;Bottom;PW2
+119;;;84.1248;-79.5263;0;Bottom;Copper Fill89
+120;;;18.0086;-16.2803;0;Bottom;Copper Fill54
+121;;;77.2668;-37.5782;0;Bottom;Copper Fill28
+122;;;152.166;-53.76;0;Bottom;Pad9
+123;22k;THT;169.73;-54.5667;180;Bottom;R41
+124;;;85.1789;-78.4976;0;Bottom;Copper Fill88
+125;;THT;84.1586;-10.5124;90;Bottom;- +
+126;1k;THT;45.3748;-66.249;-90;Bottom;R4
+127;;;38.1508;-79.1199;0;Bottom;Copper Fill47
+128;;THT;79.3456;-75.7666;90;Bottom;J91
+129;;;7.2887;-48.8574;0;Bottom;TXT8
+130;;sma-diode;100.175;-11.5663;0;Bottom;D4   
+131;150k;THT;131.326;-41.26;0;Bottom;R37
+132;;;20.5105;-78.5484;0;Bottom;Copper Fill38
+133;47µF;100 mil [THT, electrolytic];36.2954;-28.5665;180;Bottom;C12
+134;;THT;171.036;-18.3122;0;Bottom;S1 S2 N1 N2
+135;;diode-1n4148;137.031;-28.4248;-90;Bottom;D5
+136;0;THT;63.5755;-20.0766;-90;Bottom;R25
+137;;;53.6448;-42.5058;0;Bottom;Copper Fill31
+138;;;41.3147;-39.1293;90;Bottom;TXT8
+139;;;67.6148;-77.0879;0;Bottom;Copper Fill45
+140;;;61.2394;-36.7527;0;Bottom;Copper Fill96
+141;;;38.8874;-72.4651;0;Bottom;Copper Fill74
+142;;;57.531;-19.9379;0;Bottom;Copper Fill57
+143;33µF;100 mil [THT, electrolytic];41.4516;-72.4255;0;Bottom;C8
+144;56k;THT;170.323;-68.5664;0;Bottom;R38
+145;;;6.1849;-66.2294;0;Bottom;Copper Fill83
+146;3.3k;THT;73.5755;-49.9566;-90;Bottom;R16
+147;;;71.1454;-27.1007;0;Bottom;Copper Fill92
+148;;;103.387;-82.0664;0;Bottom;Hole16
+149;;;146.201;-65.0851;0;Bottom;Pad8
+150;100 nF;100 mil [THT, multilayer];28.0139;-25.2444;180;Bottom;C13
+151;;;180.025;-41.0663;0;Bottom;Hole15
+152;;;162.361;-77.5837;-90;Bottom;TXT10
+153;3.3k;THT;57.685;-51.059;180;Bottom;R9
+154;12V;THT;150.52;-10.0653;0;Bottom;STOP
+155;;THT;96.9623;-60.679;180;Bottom;G1
+156;;;45.9613;-27.3928;0;Bottom;Copper Fill76
+157;;;18.6701;-18.5782;180;Bottom;M2
+158;22pF;100 mil [THT, multilayer];34.302;-41.2792;180;Bottom;C6
+159;;;59.9821;-35.4954;0;Bottom;Copper Fill95
+160;;;72.4281;-25.8434;0;Bottom;Copper Fill91
+161;;;66.4337;-75.9322;0;Bottom;Copper Fill44
+162;;;36.1407;-18.7656;0;Bottom;TXT8
+163;;;45.9613;-29.8566;0;Bottom;Copper Fill75
+164;;;74.9681;-28.3834;0;Bottom;Copper Fill109
+165;;;11.2649;-42.8106;0;Bottom;Copper Fill81
+166;;cpol-radial-1000uf-25v;85.0366;-64.576;90;Bottom;C1
+167;10k;THT;51.8492;-12.5769;90;Bottom;R27
+168;100 nF;100 mil [THT, multilayer];26.8017;-44.2792;180;Bottom;C7
+169;;;66.0449;-56.2567;180;Bottom;M1
+170;;;74.9681;-7.403;0;Bottom;Copper Fill123
+171;;;70.739;-5.9171;0;Bottom;Copper Fill69
+172;;;73.1774;-5.9171;0;Bottom;Copper Fill70
+173;15k;THT;121.004;-66.4064;90;Bottom;R33
+174;;;3.2014;-2.94754;0;Bottom;blkr7
+175;;;50.3174;-78.8151;0;Bottom;Copper Fill103
+176;;;68.2158;-17.582;180;Bottom;M3
+177;10k;THT;49.3493;-12.5769;90;Bottom;R26
+178;;;71.4629;-44.7918;0;Bottom;Copper Fill105
+179;;THT;135.247;-17.6763;180;Bottom;J2
+180;;;89.0885;-45.8876;0;Bottom;blkr5
+181;;THT;170.004;-48.2825;90;Bottom;J1
+182;;;53.0352;-59.6635;0;Bottom;Copper Fill120
+183;;;57.4421;-35.4954;0;Bottom;Copper Fill115
+184;;;85.1789;-80.5804;0;Bottom;Copper Fill87
+185;;;159.525;-57.0664;0;Bottom;Pad3
+186;;sma-diode;77.8749;-69.7091;-90;Bottom;D1
+187;;sot23-3;48.1816;-21.8753;0;Bottom;Q9
+188;;THT;10.1126;-67.6093;90;Bottom;J3
+189;;;73.5457;-44.9696;0;Bottom;Copper Fill121
+190;0;THT;47.875;-58.2492;-90;Bottom;R7
+191;;;66.4337;-78.269;0;Bottom;Copper Fill43
+192;;;83.9089;-40.8294;0;Bottom;Copper Fill116
+193;;;180.025;-4.06637;0;Bottom;Hole14
+194;;;106.936;-43.343;-90;Bottom;TXT12
+195;;;97.0661;-38.0862;0;Bottom;Copper Fill62
+196;1k;THT;25.0564;-74.9641;90;Bottom;R1
+197;;;70.2564;-45.9983;0;Bottom;Copper Fill106
+198;;;37.5285;-29.8566;0;Bottom;Copper Fill78
+199;;THT;20.7258;-67.2781;-90;Bottom;Q5
+200;0;THT;100.929;-39.2443;0;Bottom;R30
+201;;;59.9821;-77.4054;0;Bottom;Copper Fill94
+202;;;27.9781;-40.169;0;Bottom;Copper Fill42
+203;;;104.686;-40.5246;0;Bottom;Copper Fill64
+204;;;2.7178;-54.6851;0;Bottom;Copper Fill37
+205;;diode-1n4001;170.961;-60.0667;0;Bottom;D7
+206;;cap-pth-large;120.826;-51.0663;180;Bottom;C15
+207;;;39.3065;-80.301;0;Bottom;Copper Fill46
+208;1k;THT;44.3466;-5.77588;0;Bottom;R24
+209;100 nF;100 mil [THT, multilayer];65.2367;-77.0377;180;Bottom;C3
+210;;;63.8429;-81.317;0;Bottom;Copper Fill65
+211;;;3.9497;-53.4532;0;Bottom;Copper Fill36
+212;;;16.8021;-15.0738;0;Bottom;Copper Fill53
+213;;THT;179.341;-50.8762;90;Bottom;Q7
+214;33µF;100 mil [THT, electrolytic];51.8749;-58.329;90;Bottom;C10
+215;;;39.1406;-39.1329;90;Bottom;TXT8
+216;;;159.025;-67.0662;0;Bottom;Pad10
+217;;[THT];9.07976;-40.7178;90;Bottom;RESET1
+218;;;126.266;-41.5649;0;Bottom;Pad13
+219;10k;THT;11.6554;-33.7667;180;Bottom;R21
+220;;;4.9276;-67.4867;0;Bottom;Copper Fill84
+221;10k;THT;67.7265;-48.4515;180;Bottom;R15
+222;;;180.025;-81.5663;0;Bottom;Hole11
+223;;;89.9685;-17.1909;0;Bottom;blkr4
+224;;;56.3245;-21.1698;0;Bottom;Copper Fill55
+225;;;25.2857;-53.4278;0;Bottom;Copper Fill73
+226;100 nF;100 mil [THT, multilayer];47.8157;-74.4817;180;Bottom;C17
+227;;;94.0252;-4.06637;0;Bottom;Hole20
+228;;;98.0861;-43.8549;0;Bottom;blkr6
+229;1k;THT;28.799;-61.0593;0;Bottom;R19
+230;;;15.1173;-38.1064;90;Bottom;TXT8
+231;;;70.231;-48.4875;0;Bottom;Copper Fill59
+232;10k;THT;57.7265;-48.4374;180;Bottom;R10
+233;;;72.4281;-28.3834;0;Bottom;Copper Fill90
+234;0.47mF;200 mil [THT, electrolytic];48.5653;-28.5665;0;Bottom;C2
+235;;;57.4421;-38.0354;0;Bottom;Copper Fill114
+236;;;74.9681;-9.9176;0;Bottom;Copper Fill122
+237;;;81.3689;-40.8294;0;Bottom;Copper Fill97
+238;;;180.025;-33.0664;0;Bottom;Hole17
+239;0;THT;38.7152;-24.5662;0;Bottom;R31
+240;;;30.4038;-25.2719;0;Bottom;Copper Fill50
+241;;;101.689;-15.7303;-90;Bottom;Fuse1
+242;;DIP (Dual Inline) [THT];151.358;-42.8876;0;Bottom;G2
+243;;;111.525;-4.09036;0;Bottom;Hole19
+244;56k;THT;170.323;-65.5446;0;Bottom;R39
+245;;;57.4421;-77.4054;0;Bottom;Copper Fill112
+246;22pF;100 mil [THT, multilayer];29.3013;-41.2792;180;Bottom;C5
+247;;;146.025;-54.0664;0;Bottom;Pad2
+248;;;55.0418;-53.6183;0;Bottom;Copper Fill72
+249;;;17.8421;-38.0929;90;Bottom;TXT8
